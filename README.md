@@ -1,4 +1,4 @@
-# calculadoramath
+# Calculator with Flutter.
 
 A new Flutter project.
 
