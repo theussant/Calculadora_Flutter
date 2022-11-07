@@ -268,9 +268,9 @@ class _MyAppState extends State<MyApp> {
                     ),
                     GestureDetector(
                       onTap: () => calcular(','),
-                      child: const Text(
-                        ',',
-                        style: TextStyle(fontSize: 48),
+                      child: Image.network(
+                        'https://cdn.icon-icons.com/icons2/2248/PNG/96/comma_circle_icon_137734.png',
+                        width: 72,
                       ),
                     ),
                     GestureDetector(
